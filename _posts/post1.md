@@ -2,7 +2,8 @@
 date: 2022-10-30 21:47:45 -0700
 permalink: /posts/2022/10/essaysdone/
 ---
-## College Application Update
+College Application Update
+====
 
 ![umich-submission](https://media.discordapp.net/attachments/864384674033434624/1036493968805998702/unknown.png)
 
@@ -18,7 +19,8 @@ There's nothing inherently evil about the college application process, as unfair
 
 All the pressure comes from ourself, our parents, and society. College is definitely important, and I am part of the problem more than the average student if anything(Berkeley plz accept me). But I disagree with the sentiment of people acting like going to UC Merced is equivalent of getting sent to the gulag. 
 
-## Thoughts on Life
+Thoughts on Life
+====
 
 This past month or so has probably been some of the most unfun weeks of my life :( I really enjoy all of my classes this year but wish I had more time to spend towards them. 
 
