@@ -2,7 +2,5 @@
 main:
   - title: "Coursework"
     url: /courses/
-main:
-  - title: "Course Reviews"
-    url: /reviews/
+
 
