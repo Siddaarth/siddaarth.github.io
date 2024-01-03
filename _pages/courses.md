@@ -17,7 +17,7 @@ author_profile: true
 
 <!-- -->
 
-- Math 33b: Differential Equations (In Progress)
+- Math 33B: Differential Equations (In Progress)
 - Math 100: Problem Solving (P)
 
 <!-- -->
