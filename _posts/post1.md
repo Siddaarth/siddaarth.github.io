@@ -1,4 +1,5 @@
 ---
+title: 'Essays Done! (For Now)'
 date: 2022-10-30 21:47:45 -0700
 permalink: /posts/2022/10/essaysdone/
 ---
