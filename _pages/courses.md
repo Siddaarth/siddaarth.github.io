@@ -8,7 +8,7 @@ author_profile: true
 ### UCLA Coursework
 
 - CS 33: Computer Orginization (A+)
-- CS m51a: Logic Design of Digital Systems (In Progress)
+- CS M51A: Logic Design of Digital Systems (In Progress)
 
 <!-- -->
   
