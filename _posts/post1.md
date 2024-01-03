@@ -1,10 +1,15 @@
 ---
 title: 'Essays Done! (For Now)'
-date: 2022-10-30 21:47:45 -0700
+date: 2022-10-30
 permalink: /posts/2022/10/essaysdone/
+tags:
+  - 
 ---
+
+This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. 
+
 College Application Update
-====
+======
 
 ![umich-submission](https://media.discordapp.net/attachments/864384674033434624/1036493968805998702/unknown.png)
 
