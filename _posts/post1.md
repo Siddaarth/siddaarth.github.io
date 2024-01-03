@@ -1,8 +1,6 @@
 ---
-layout: post
-title:  "Essays Done! (For Now)"
-date:   2022-10-30 21:47:45 -0700
-categories: life
+date: 2022-10-30 21:47:45 -0700
+permalink: /posts/2022/10/essaysdone/
 ---
 ## College Application Update
 
