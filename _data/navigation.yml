@@ -2,6 +2,6 @@
 main:
   - title: "Coursework"
     url: /courses/
-main:
+
   - title: "Blog Posts"
-    url: /posts/
+    url: /year-archive/
