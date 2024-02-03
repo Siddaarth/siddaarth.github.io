@@ -8,10 +8,10 @@ author_profile: true
 ### UCLA Coursework
 
 - CS 33: Computer Orginization (A+)
-- CS M51A: Logic Design of Digital Systems (In Progress)
 
 <!-- -->
-  
+
+- ECE 131A: Probability and Statistics (In Progress)
 - ECE 133A: Applied Numerical Computing (A)
 - ECE C147: Deep Learning and Neural Networks (In Progress)
 
