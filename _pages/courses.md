@@ -7,30 +7,34 @@ author_profile: true
 
 ### UCLA Coursework
 
-- CS 33: Computer Orginization (A+)
+- CS 33: Computer Orginization
+- CS 35L: Software Construction
 
 <!-- -->
 
-- ECE 131A: Probability and Statistics (In Progress)
-- ECE 133A: Applied Numerical Computing (A)
-- ECE C147: Deep Learning and Neural Networks (In Progress)
+- ECE 131A: Probability and Statistics 
+- ECE 133A: Applied Numerical Computing 
+- ECE C147: Deep Learning I
+- ECE 231E: Channel Coding Theory
+- ECE 239AS: Deep Learning II
 
 <!-- -->
 
-- Math 33B: Differential Equations (In Progress)
-- Math 100: Problem Solving (P)
+- Math 33B: Differential Equations 
+- Math 100: Problem Solving 
+- Math 115AH: Linear Algebra (Honors)
 
 <!-- -->
 
-- Physics 1C: Electrodynamics, Optics, and Special Relativity (In Progress)
-- LS 7A: Cell and Molecular Biology (A)
+- Physics 1C: Electrodynamics, Optics, and Special Relativity 
+- LS 7A: Cell and Molecular Biology 
 
 <!-- -->
 
 ### Transfer Coursework
 
-- CS 61A: Structure and Interpretation of Computer Programs (A+)
-- CS 70: Discrete Mathematics and Probability Theory (A)
+- CS 61A: Structure and Interpretation of Computer Programs 
+- CS 70: Discrete Mathematics and Probability Theory 
 
 
 
