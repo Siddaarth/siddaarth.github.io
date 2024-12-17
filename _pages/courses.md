@@ -27,6 +27,7 @@ author_profile: true
 - Math 100: Problem Solving 
 - Math 115AH: Linear Algebra (Honors)
 - Math 131AH: Real Analysis (Honors)
+- Math 131BH: Real Analysis (Honors)
 
 <!-- -->
 
