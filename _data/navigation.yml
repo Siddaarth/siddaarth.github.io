@@ -2,4 +2,7 @@
 main:
   - title: "Coursework"
     url: /courses/
+
+  - title: "Blog Posts"
+    url: /year-archive/
   
