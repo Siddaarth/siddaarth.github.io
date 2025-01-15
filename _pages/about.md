@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Siddaarth, an undergraduate at UCLA.
+Hello! I'm Siddaarth, an undergraduate at UCLA. 
