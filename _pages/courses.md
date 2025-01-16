@@ -10,6 +10,7 @@ author_profile: true
 - CS 33: Computer Orginization
 - CS 35L: Software Construction
 - CS 131: Programming Languages
+- CS 181: Introduction to Computability Theory
 - CS 282A: Cryptography
 
 <!-- -->
@@ -19,6 +20,7 @@ author_profile: true
 - ECE C147: Deep Learning I
 - ECE 231A: Information Theory
 - ECE 231E: Channel Coding Theory
+- ECE 236B: Convex Optimization
 - ECE 239AS: Deep Learning II
 
 <!-- -->
