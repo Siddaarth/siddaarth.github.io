@@ -14,7 +14,7 @@ author_profile: true
 - CS 282A: Cryptography
 
 <!-- -->
-
+- ECE 102: Signals and Systems
 - ECE 131A: Probability and Statistics 
 - ECE 133A: Applied Numerical Computing 
 - ECE C147: Deep Learning I
